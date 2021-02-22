@@ -9,12 +9,12 @@ Lab2: Implementation of heaps, alongside various functions, such as getting vari
 
 Lab3: Implementation and use of a stack to create a reverse polish notation (RPN), or postfix, calculator. 
 
-Lab4: Implementation and use of insert, lookup, and delete operation on a hash table, used to store the Social Insurance Numbers (SIN) of a large number of people. Include 3 hash functions alongside 4 types of adressing.
+Lab4: Implementation and use of insert, lookup, and delete operation on a hash table, used to store the Social Insurance Numbers (SIN) of a large number of people. Include 3 hash functions alongside 4 types of addressing.
   
-  1. Trivial Hash, alongside closed adresssing using chaining.
+  1. Trivial Hash, alongside closed addressing using chaining.
   
-  2. Pearson Hash, alongside open adressing using linear probing.
+  2. Pearson Hash, alongside open addressing using linear probing.
   
-  3. Fibonnaci Hash, alonside open adressing using quadratic probing.
+  3. Fibonnaci Hash, alongside open addressing using quadratic probing.
   
-  4. Cuckoo Hashing, alonside open adressing.
+  4. Cuckoo Hashing, alongside open addressing.
